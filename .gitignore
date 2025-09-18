@@ -76,7 +76,5 @@ Desktop.ini
 *.log
 npm-debug.log*
 go.sum
-go.mod
-netlify.toml
 .github/workflows/updater-wip.yml
 .github/preview.webp
