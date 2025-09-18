@@ -1,2 +1,2 @@
-# SIE_formation_PANDA
-Pack d’Apprentissage Numérique pour Doctorant Astucieux
+# SIE formation Pack d’Apprentissage Numérique pour Doctorant Astucieux (PANDA)
+
