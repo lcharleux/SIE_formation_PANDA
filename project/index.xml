@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | CTRL, CODE, COMMIT: Digital Skills for the Modern PhD (CCC)</title>
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_892c01a9011e56d4.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+    </image>
+    
+    <item>
+      <title>Git and GitHub</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;You’ve probably done this:
+•	manuscript_v2_FINAL.docx
+•	manuscript_v2_FINAL_revised_OK_THIS_ONE.tex
+•	manuscript_v2_FINAL_revised_OK_THIS_ONE_FOR_REAL_bis_bis.docx&lt;/p&gt;
+&lt;p&gt;…we’ve all been there.&lt;/p&gt;
+&lt;p&gt;It’s time to break up with folders full of confusing file versions and discover Git: the ultimate time machine, collaboration engine, and safety net for your research.&lt;/p&gt;
+&lt;p&gt;In this hands-on tutorial, you’ll learn:
+•	🗂️ How to track changes in your code, scripts, or manuscripts
+•	🧠 How to stop fearing overwrites or “breaking everything”
+•	🤝 How to collaborate without emailing ZIP files
+•	🛠️ How to use GitHub (and understand what a “pull request” actually is)
+•	🔍 How Git supports open, transparent, and reproducible research&lt;/p&gt;
+&lt;p&gt;No prior experience needed — if you can save a file, you can learn Git.
+And once you do, you’ll wonder how you ever worked without it.&lt;/p&gt;
+&lt;p&gt;Let’s make version control your new best research habit.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>http://localhost:1313/project/pytorch/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pytorch/</guid>
+      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>scikit-learn</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Elmo | CTRL, CODE, COMMIT: Digital Skills for the Modern PhD (CCC)</title>
+    <link>http://localhost:1313/author/christian-elmo/</link>
+      <atom:link href="http://localhost:1313/author/christian-elmo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christian Elmo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/author/christian-elmo/avatar_hu_7368939b2a43fc5.jpeg</url>
+      <title>Christian Elmo</title>
+      <link>http://localhost:1313/author/christian-elmo/</link>
+    </image>
+    
+    <item>
+      <title>Workflow</title>
+      <link>http://localhost:1313/workflow/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/workflow/</guid>
+      <description>&lt;div class=&#34;mermaid&#34;&gt;flowchart TD
+  A([&#34;LaTeX&#34;]) --&gt; B{&#34;Decision&#34;}
+  B --&gt; C[&#34;Stop&#34;] &amp; D[&#34;GIT&#34;]
+  D --&gt; E[&#34;Python 1/2&#34;]
+  E --&gt; F{&#34;Decision&#34;}
+  F --&gt; C
+  F --&gt; G[&#34;Docker&#34;]
+  G --&gt; H[&#34;Python 2/2&#34;]
+  H --&gt; C
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

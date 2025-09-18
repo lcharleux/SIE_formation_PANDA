@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker | CTRL, CODE, COMMIT: Digital Skills for the Modern PhD (CCC)</title>
+    <link>http://localhost:1313/tags/docker/</link>
+      <atom:link href="http://localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Docker</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_892c01a9011e56d4.png</url>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
+    </image>
+    
+    <item>
+      <title>Docker for Researchers: Because “It Works on My Machine” Isn’t Reproducible</title>
+      <link>http://localhost:1313/blocks/docker/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blocks/docker/</guid>
+      <description>&lt;p&gt;Ever tried to re-run your code six months later and it just… doesn’t?
+Or shared your scripts with a colleague and it instantly breaks on their system?&lt;/p&gt;
+&lt;p&gt;Welcome to the jungle of research environments.
+Docker is your exit strategy.&lt;/p&gt;
+&lt;p&gt;In this tutorial, we’ll demystify Docker — not for DevOps pros, but for scientists who want to:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;•	📦 Package your code and environment so it runs anywhere, the same way
+•	🔁 Reproduce your own work (and others’) without dependency hell
+•	🧪 Bundle Jupyter notebooks, scripts, tools, and data in clean containers
+•	🚀 Share your projects with collaborators without painful setup guides
+•	🧊 Freeze your environment for publication, thesis submission, or archiving
+•	🧹 Keep your machine clean while testing new tools in isolated sandboxes
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;No need to be a sysadmin — we’ll start from scratch, show you why Docker is a game changer, and teach you how to use it for what matters: research that runs.&lt;/p&gt;
+&lt;p&gt;Docker: because your research deserves to outlive your laptop.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Workflow</title>
+      <link>http://localhost:1313/workflow/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/workflow/</guid>
+      <description>&lt;div class=&#34;mermaid&#34;&gt;flowchart TD
+  A([&#34;LaTeX&#34;]) --&gt; B{&#34;Decision&#34;}
+  B --&gt; C[&#34;Stop&#34;] &amp; D[&#34;GIT&#34;]
+  D --&gt; E[&#34;Python 1/2&#34;]
+  E --&gt; F{&#34;Decision&#34;}
+  F --&gt; C
+  F --&gt; G[&#34;Docker&#34;]
+  G --&gt; H[&#34;Python 2/2&#34;]
+  H --&gt; C
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

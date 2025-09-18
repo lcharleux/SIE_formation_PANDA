@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blox | CTRL, CODE, COMMIT: Digital Skills for the Modern PhD (CCC)</title>
+    <link>http://localhost:1313/tags/hugo-blox/</link>
+      <atom:link href="http://localhost:1313/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Blox</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_892c01a9011e56d4.png</url>
+      <title>Hugo Blox</title>
+      <link>http://localhost:1313/tags/hugo-blox/</link>
+    </image>
+    
+    <item>
+      <title>📈 Communicate your results effectively with the best data visualizations</title>
+      <link>http://localhost:1313/post/data-visualization/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/data-visualization/</guid>
+      <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
+&lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
+&lt;h2 id=&#34;embed-rich-content&#34;&gt;Embed Rich Content&lt;/h2&gt;
+&lt;p&gt;HuggingFace Model&lt;/p&gt;
+
+
+
+
+&lt;div class=&#34;group bg-white/90 dark:bg-zinc-900/90 backdrop-blur-sm rounded-2xl ring-1 ring-zinc-900/5 dark:ring-white/10 shadow-lg overflow-hidden transition-all duration-300 ease-out hover:shadow-xl hover:shadow-primary-500/10 hover:-translate-y-1 focus-within:ring-2 focus-within:ring-primary-500/50 my-6&#34; role=&#34;article&#34; aria-labelledby=&#34;hb-embed-title-hb-embed-26c8dd6565a123872d5006fca6d45003&#34;&gt;
+  
+    
+    &lt;div class=&#34;flex items-center gap-3 p-6 border-b border-zinc-100 dark:border-zinc-800&#34;&gt;
+      &lt;div class=&#34;flex-shrink-0&#34;&gt;
+        &lt;div class=&#34;w-10 h-10 rounded-full bg-gradient-to-br from-yellow-400 to-orange-500 flex items-center justify-center&#34;&gt;
+    &lt;svg class=&#34;w-6 h-6 text-white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 475 439&#34;&gt;&lt;path d=&#34;M235.793 396.126a187.281 187.281 0 00187.285-187.284A187.283 187.283 0 00235.793 21.558 187.287 187.287 0 0048.509 208.842a187.286 187.286 0 00187.284 187.284z&#34; fill=&#34;#FFD21E&#34;/&gt;&lt;path d=&#34;M423.078 208.842A187.283 187.283 0 00235.793 21.558 187.283 187.283 0 0048.509 208.842a187.283 187.283 0 00319.714 132.43 187.284 187.284 0 0054.855-132.43zm-396.127 0a208.842 208.842 0 11417.685 0 208.842 208.842 0 01-417.685 0z&#34; fill=&#34;#FF9D0B&#34;/&gt;&lt;path d=&#34;M296.641 157.912c6.898 2.371 9.593 16.491 16.545 12.827a26.946 26.946 0 008.24-40.841 26.952 26.952 0 00-28.632-8.767 26.942 26.942 0 00-19.055 23.099 26.943 26.943 0 003.014 15.352c3.288 6.198 13.744-3.88 19.941-1.724l-.053.054zm-126.923 0c-6.898 2.371-9.647 16.491-16.545 12.827a26.946 26.946 0 01-8.24-40.841 26.952 26.952 0 0128.632-8.767 26.944 26.944 0 0116.041 38.451c-3.288 6.198-13.797-3.88-19.941-1.724l.053.054z&#34; fill=&#34;#3A3B45&#34;/&gt;&lt;path d=&#34;M234.446 287.205c52.979 0 70.063-47.212 70.063-71.464 0-12.612-8.461-8.624-22.043-1.941-12.557 6.198-29.426 14.768-47.966 14.768-38.75 0-70.063-37.08-70.063-12.827 0 24.252 17.031 71.464 70.063 71.464h-.054z&#34; fill=&#34;#FF323D&#34;/&gt;&lt;/svg&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&#34;flex-1 min-w-0&#34;&gt;
+        &lt;h3 id=&#34;hb-embed-title-hb-embed-26c8dd6565a123872d5006fca6d45003&#34; class=&#34;text-xl font-bold tracking-tight leading-tight truncate&#34;&gt;
+  &lt;a href=&#34;https://huggingface.co/google/embeddinggemma-300m&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;text-zinc-900 dark:text-zinc-100 hover:text-primary-600 dark:hover:text-primary-400 hover:underline transition-colors duration-200&#34;&gt;google/embeddinggemma-300m&lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;div class=&#34;flex items-center gap-2 mt-1&#34;&gt;
+  &lt;span class=&#34;inline-block w-2 h-2 rounded-full bg-secondary-500&#34;&gt;&lt;/span&gt;
+      &lt;span class=&#34;text-sm text-zinc-600 dark:text-zinc-400 capitalize&#34;&gt;
+        sentence-similarity
+      &lt;/span&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&#34;flex-shrink-0&#34;&gt;
+        &lt;a href=&#34;https://huggingface.co/google/embeddinggemma-300m&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;text-zinc-400 hover:text-primary-500 transition-colors duration-200&#34;&gt;
+          &lt;svg class=&#34;w-5 h-5 hb-embed-link&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25&#34;/&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    
+    &lt;div class=&#34;p-6 space-y-4&#34;&gt;
+      &lt;div class=&#34;flex items-center gap-6 pt-2&#34;&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
+          &lt;svg class=&#34;w-4 h-4 text-primary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-26c8dd6565a123872d5006fca6d45003-downloads&#34;&gt;176.785k&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
+          &lt;svg class=&#34;w-4 h-4 text-secondary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M21 8.25c0-2.485-2.099-4.5-4.687-4.5c-1.936 0-3.598 1.126-4.313 2.733c-.715-1.607-2.377-2.733-4.312-2.733C5.098 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-26c8dd6565a123872d5006fca6d45003-likes&#34;&gt;825&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    
+    &lt;div class=&#34;absolute inset-0 pointer-events-none bg-gradient-to-r from-primary-500/0 via-primary-500/5 to-secondary-500/0 opacity-0 group-hover:opacity-100 transition-opacity duration-300&#34;&gt;&lt;/div&gt;
+    
+    
+    &lt;div class=&#34;sr-only&#34; data-hb-component=&#34;embed&#34; data-hb-version=&#34;1.0&#34; data-hb-license=&#34;MIT&#34;&gt;
+      Powered by Hugo Blox Builder - https://github.com/HugoBlox/hugo-blox-builder
+    &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;HuggingFace Dataset&lt;/p&gt;
+
+
+
+
+&lt;div class=&#34;group bg-white/90 dark:bg-zinc-900/90 backdrop-blur-sm rounded-2xl ring-1 ring-zinc-900/5 dark:ring-white/10 shadow-lg overflow-hidden transition-all duration-300 ease-out hover:shadow-xl hover:shadow-primary-500/10 hover:-translate-y-1 focus-within:ring-2 focus-within:ring-primary-500/50 my-6&#34; role=&#34;article&#34; aria-labelledby=&#34;hb-embed-title-hb-embed-f9741c22a761ee6f5678fa8213e2fa2c&#34;&gt;
+  
+    
+    &lt;div class=&#34;flex items-center gap-3 p-6 border-b border-zinc-100 dark:border-zinc-800&#34;&gt;
+      &lt;div class=&#34;flex-shrink-0&#34;&gt;
+        &lt;div class=&#34;w-10 h-10 rounded-full bg-gradient-to-br from-yellow-400 to-orange-500 flex items-center justify-center&#34;&gt;
+    &lt;svg class=&#34;w-6 h-6 text-white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 475 439&#34;&gt;&lt;path d=&#34;M235.793 396.126a187.281 187.281 0 00187.285-187.284A187.283 187.283 0 00235.793 21.558 187.287 187.287 0 0048.509 208.842a187.286 187.286 0 00187.284 187.284z&#34; fill=&#34;#FFD21E&#34;/&gt;&lt;path d=&#34;M423.078 208.842A187.283 187.283 0 00235.793 21.558 187.283 187.283 0 0048.509 208.842a187.283 187.283 0 00319.714 132.43 187.284 187.284 0 0054.855-132.43zm-396.127 0a208.842 208.842 0 11417.685 0 208.842 208.842 0 01-417.685 0z&#34; fill=&#34;#FF9D0B&#34;/&gt;&lt;path d=&#34;M296.641 157.912c6.898 2.371 9.593 16.491 16.545 12.827a26.946 26.946 0 008.24-40.841 26.952 26.952 0 00-28.632-8.767 26.942 26.942 0 00-19.055 23.099 26.943 26.943 0 003.014 15.352c3.288 6.198 13.744-3.88 19.941-1.724l-.053.054zm-126.923 0c-6.898 2.371-9.647 16.491-16.545 12.827a26.946 26.946 0 01-8.24-40.841 26.952 26.952 0 0128.632-8.767 26.944 26.944 0 0116.041 38.451c-3.288 6.198-13.797-3.88-19.941-1.724l.053.054z&#34; fill=&#34;#3A3B45&#34;/&gt;&lt;path d=&#34;M234.446 287.205c52.979 0 70.063-47.212 70.063-71.464 0-12.612-8.461-8.624-22.043-1.941-12.557 6.198-29.426 14.768-47.966 14.768-38.75 0-70.063-37.08-70.063-12.827 0 24.252 17.031 71.464 70.063 71.464h-.054z&#34; fill=&#34;#FF323D&#34;/&gt;&lt;/svg&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&#34;flex-1 min-w-0&#34;&gt;
+        &lt;h3 id=&#34;hb-embed-title-hb-embed-f9741c22a761ee6f5678fa8213e2fa2c&#34; class=&#34;text-xl font-bold tracking-tight leading-tight truncate&#34;&gt;
+  &lt;a href=&#34;https://huggingface.co/datasets/fka/awesome-chatgpt-prompts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;text-zinc-900 dark:text-zinc-100 hover:text-primary-600 dark:hover:text-primary-400 hover:underline transition-colors duration-200&#34;&gt;fka/awesome-chatgpt-prompts&lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;div class=&#34;flex items-center gap-2 mt-1&#34;&gt;
+  &lt;span class=&#34;inline-block w-2 h-2 rounded-full bg-primary-500&#34;&gt;&lt;/span&gt;
+      &lt;span class=&#34;text-sm text-zinc-600 dark:text-zinc-400 capitalize&#34;&gt;
+        dataset
+      &lt;/span&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&#34;flex-shrink-0&#34;&gt;
+        &lt;a href=&#34;https://huggingface.co/datasets/fka/awesome-chatgpt-prompts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;text-zinc-400 hover:text-primary-500 transition-colors duration-200&#34;&gt;
+          &lt;svg class=&#34;w-5 h-5 hb-embed-link&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25&#34;/&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    
+    &lt;div class=&#34;p-6 space-y-4&#34;&gt;
+      &lt;p class=&#34;text-zinc-600 dark:text-zinc-400 text-base leading-relaxed line-clamp-3&#34;&gt;
+    🧠 Awesome ChatGPT Prompts [CSV dataset]
+
+This is a Dataset Repository of Awesome ChatGPT Prompts
+View All Prompts on GitHub
+
+	
+		
+		License
+	
+
+CC-0
+
+  &lt;/p&gt;&lt;div class=&#34;flex items-center gap-6 pt-2&#34;&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
+          &lt;svg class=&#34;w-4 h-4 text-primary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M3 16.5v2.25A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-f9741c22a761ee6f5678fa8213e2fa2c-downloads&#34;&gt;46.26k&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
+          &lt;svg class=&#34;w-4 h-4 text-secondary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M21 8.25c0-2.485-2.099-4.5-4.687-4.5c-1.936 0-3.598 1.126-4.313 2.733c-.715-1.607-2.377-2.733-4.312-2.733C5.098 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-f9741c22a761ee6f5678fa8213e2fa2c-likes&#34;&gt;9.059k&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    
+    &lt;div class=&#34;absolute inset-0 pointer-events-none bg-gradient-to-r from-primary-500/0 via-primary-500/5 to-secondary-500/0 opacity-0 group-hover:opacity-100 transition-opacity duration-300&#34;&gt;&lt;/div&gt;
+    
+    
+    &lt;div class=&#34;sr-only&#34; data-hb-component=&#34;embed&#34; data-hb-version=&#34;1.0&#34; data-hb-license=&#34;MIT&#34;&gt;
+      Powered by Hugo Blox Builder - https://github.com/HugoBlox/hugo-blox-builder
+    &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;GitHub Repository&lt;/p&gt;
+
+
+
+
+&lt;div class=&#34;group bg-white/90 dark:bg-zinc-900/90 backdrop-blur-sm rounded-2xl ring-1 ring-zinc-900/5 dark:ring-white/10 shadow-lg overflow-hidden transition-all duration-300 ease-out hover:shadow-xl hover:shadow-primary-500/10 hover:-translate-y-1 focus-within:ring-2 focus-within:ring-primary-500/50 my-6&#34; role=&#34;article&#34; aria-labelledby=&#34;hb-embed-title-hb-embed-cf25b2837191905e869533eae3a7b8f0&#34;&gt;
+  
+    
+    &lt;div class=&#34;flex items-center gap-3 p-6 border-b border-zinc-100 dark:border-zinc-800&#34;&gt;
+      &lt;div class=&#34;flex-shrink-0&#34;&gt;
+        &lt;div class=&#34;w-10 h-10 rounded-full bg-gradient-to-br from-slate-800 to-slate-900 flex items-center justify-center&#34;&gt;
+    &lt;svg class=&#34;w-6 h-6 text-white&#34; fill=&#34;currentColor&#34; viewBox=&#34;3 3 18 18&#34;&gt;&lt;path d=&#34;M12 3C7.0275 3 3 7.12937 3 12.2276C3 16.3109 5.57625 19.7597 9.15374 20.9824C9.60374 21.0631 9.77249 20.7863 9.77249 20.5441C9.77249 20.3249 9.76125 19.5982 9.76125 18.8254C7.5 19.2522 6.915 18.2602 6.735 17.7412C6.63375 17.4759 6.19499 16.6569 5.8125 16.4378C5.4975 16.2647 5.0475 15.838 5.80124 15.8264C6.51 15.8149 7.01625 16.4954 7.18499 16.7723C7.99499 18.1679 9.28875 17.7758 9.80625 17.5335C9.885 16.9337 10.1212 16.53 10.38 16.2993C8.3775 16.0687 6.285 15.2728 6.285 11.7432C6.285 10.7397 6.63375 9.9092 7.20749 9.26326C7.1175 9.03257 6.8025 8.08674 7.2975 6.81794C7.2975 6.81794 8.05125 6.57571 9.77249 7.76377C10.4925 7.55615 11.2575 7.45234 12.0225 7.45234C12.7875 7.45234 13.5525 7.55615 14.2725 7.76377C15.9937 6.56418 16.7475 6.81794 16.7475 6.81794C17.2424 8.08674 16.9275 9.03257 16.8375 9.26326C17.4113 9.9092 17.76 10.7281 17.76 11.7432C17.76 15.2843 15.6563 16.0687 13.6537 16.2993C13.98 16.5877 14.2613 17.1414 14.2613 18.0065C14.2613 19.2407 14.25 20.2326 14.25 20.5441C14.25 20.7863 14.4188 21.0746 14.8688 20.9824C16.6554 20.364 18.2079 19.1866 19.3078 17.6162C20.4077 16.0457 20.9995 14.1611 21 12.2276C21 7.12937 16.9725 3 12 3Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&#34;flex-1 min-w-0&#34;&gt;
+        &lt;h3 id=&#34;hb-embed-title-hb-embed-cf25b2837191905e869533eae3a7b8f0&#34; class=&#34;text-xl font-bold tracking-tight leading-tight truncate&#34;&gt;
+  &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;text-zinc-900 dark:text-zinc-100 hover:text-primary-600 dark:hover:text-primary-400 hover:underline transition-colors duration-200&#34;&gt;hugo-blox-builder&lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;div class=&#34;flex items-center gap-2 mt-1&#34;&gt;
+  &lt;span class=&#34;text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;by 
+        &lt;a href=&#34;https://github.com/HugoBlox&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;font-medium hover:text-primary-600 dark:hover:text-primary-400 hover:underline transition-colors duration-200&#34;&gt;HugoBlox&lt;/a&gt;
+      &lt;/span&gt;&lt;span class=&#34;text-sm text-zinc-500 dark:text-zinc-500&#34;&gt;•&lt;/span&gt;
+        &lt;span class=&#34;inline-block w-2 h-2 rounded-full bg-primary-500&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;text-sm text-zinc-500 dark:text-zinc-500 capitalize&#34;&gt;HTML&lt;/span&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&#34;flex-shrink-0&#34;&gt;
+        &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;text-zinc-400 hover:text-primary-500 transition-colors duration-200&#34;&gt;
+          &lt;svg class=&#34;w-5 h-5 hb-embed-link&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25&#34;/&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    
+    &lt;div class=&#34;p-6 space-y-4&#34;&gt;
+      &lt;p class=&#34;text-zinc-600 dark:text-zinc-400 text-base leading-relaxed line-clamp-3&#34;&gt;
+    ⚡ Hugo Blox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers &amp;amp; startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
+  &lt;/p&gt;&lt;div class=&#34;flex items-center gap-6 pt-2&#34;&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
+          &lt;svg class=&#34;w-4 h-4 text-primary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;currentColor&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path d=&#34;M6 2C4.89543 2 4 2.89543 4 4C4 4.74028 4.4022 5.38663 5 5.73244V7C5 8.65685 6.34315 10 8 10H10V11.2676C9.4022 11.6134 9 12.2597 9 13C9 14.1046 9.89543 15 11 15C12.1046 15 13 14.1046 13 13C13 12.2597 12.5978 11.6134 12 11.2676V10H14C15.6569 10 17 8.65685 17 7V5.73244C17.5978 5.38663 18 4.74028 18 4C18 2.89543 17.1046 2 16 2C14.8954 2 14 2.89543 14 4C14 4.74028 14.4022 5.38663 15 5.73244V7C15 7.55228 14.5523 8 14 8H8C7.44772 8 7 7.55228 7 7V5.73244C7.5978 5.38663 8 4.74028 8 4C8 2.89543 7.10457 2 6 2ZM6 4C6 3.44772 6.44772 3 7 3C7.55228 3 8 3.44772 8 4C8 4.55228 7.55228 5 7 5C6.44772 5 6 4.55228 6 4ZM11 13C11 12.4477 11.4477 12 12 12C12.5523 12 13 12.4477 13 13C13 13.5523 12.5523 14 12 14C11.4477 14 11 13.5523 11 13ZM16 3C15.4477 3 15 3.44772 15 4C15 4.55228 15.4477 5 16 5C16.5523 5 17 4.55228 17 4C17 3.44772 16.5523 3 16 3Z&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-cf25b2837191905e869533eae3a7b8f0-forks&#34;&gt;2.959k&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
+          &lt;svg class=&#34;w-4 h-4 text-red-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M12 9v3.75m9-.75a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9 3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+            &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;font-medium hover:text-primary-600 dark:hover:text-primary-400 hover:underline transition-colors duration-200&#34; id=&#34;hb-hb-embed-cf25b2837191905e869533eae3a7b8f0-issues&#34;&gt;9&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
+          &lt;svg class=&#34;w-4 h-4 text-yellow-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M11.48 3.499a.562.562 0 0 1 1.04 0l2.125 5.111a.563.563 0 0 0 .475.345l5.518.442c.499.04.701.663.321.988l-4.204 3.602a.563.563 0 0 0-.182.557l1.285 5.385a.562.562 0 0 1-.84.61l-4.725-2.885a.563.563 0 0 0-.586 0L6.982 20.54a.562.562 0 0 1-.84-.61l1.285-5.386a.562.562 0 0 0-.182-.557l-4.204-3.602a.563.563 0 0 1 .321-.988l5.518-.442a.563.563 0 0 0 .475-.345z&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-cf25b2837191905e869533eae3a7b8f0-stars&#34;&gt;8.952k&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;flex flex-wrap gap-1 pt-2&#34;&gt;&lt;span class=&#34;inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300&#34;&gt;
+          academic
+        &lt;/span&gt;&lt;span class=&#34;inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300&#34;&gt;
+          blog
+        &lt;/span&gt;&lt;span class=&#34;inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300&#34;&gt;
+          blog-engine
+        &lt;/span&gt;&lt;span class=&#34;text-xs text-zinc-500 dark:text-zinc-500&#34;&gt;+17&lt;/span&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    
+    &lt;div class=&#34;absolute inset-0 pointer-events-none bg-gradient-to-r from-primary-500/0 via-primary-500/5 to-secondary-500/0 opacity-0 group-hover:opacity-100 transition-opacity duration-300&#34;&gt;&lt;/div&gt;
+    
+    
+    &lt;div class=&#34;sr-only&#34; data-hb-component=&#34;embed&#34; data-hb-version=&#34;1.0&#34; data-hb-license=&#34;MIT&#34;&gt;
+      Powered by Hugo Blox Builder - https://github.com/HugoBlox/hugo-blox-builder
+    &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;Custom embed with manual data&lt;/p&gt;
+
+
+
+
+&lt;div class=&#34;group bg-white/90 dark:bg-zinc-900/90 backdrop-blur-sm rounded-2xl ring-1 ring-zinc-900/5 dark:ring-white/10 shadow-lg overflow-hidden transition-all duration-300 ease-out hover:shadow-xl hover:shadow-primary-500/10 hover:-translate-y-1 focus-within:ring-2 focus-within:ring-primary-500/50 my-6&#34; role=&#34;article&#34; aria-labelledby=&#34;hb-embed-title-hb-embed-9cbcdce776b462b36fb2d81272fd8b26&#34;&gt;
+  
+    
+    &lt;div class=&#34;flex items-center gap-3 p-6 border-b border-zinc-100 dark:border-zinc-800&#34;&gt;
+      &lt;div class=&#34;flex-shrink-0&#34;&gt;
+        
+  &lt;div class=&#34;w-10 h-10 rounded-full bg-gradient-to-br from-zinc-700 to-zinc-800 flex items-center justify-center&#34;&gt;
+    &lt;svg class=&#34;w-5 h-5 text-white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M12 21a9.004 9.004 0 0 0 8.716-6.747M12 21a9.004 9.004 0 0 1-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 0 1 7.843 4.582M12 3a8.997 8.997 0 0 0-7.843 4.582m15.686 0A11.953 11.953 0 0 1 12 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0 1 21 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0 1 12 16.5a17.92 17.92 0 0 1-8.716-2.247m0 0A9.015 9.015 0 0 1 3 12c0-1.605.42-3.113 1.157-4.418&#34;/&gt;&lt;/svg&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&#34;flex-1 min-w-0&#34;&gt;
+        &lt;h3 id=&#34;hb-embed-title-hb-embed-9cbcdce776b462b36fb2d81272fd8b26&#34; class=&#34;text-xl font-bold tracking-tight leading-tight truncate&#34;&gt;
+  &lt;a href=&#34;https://example.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;text-zinc-900 dark:text-zinc-100 hover:text-primary-600 dark:hover:text-primary-400 hover:underline transition-colors duration-200&#34;&gt;My Custom Resource&lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;div class=&#34;flex items-center gap-2 mt-1&#34;&gt;
+  &lt;span class=&#34;text-sm text-zinc-500 dark:text-zinc-500&#34;&gt;example.com&lt;/span&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&#34;flex-shrink-0&#34;&gt;
+        &lt;a href=&#34;https://example.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;text-zinc-400 hover:text-primary-500 transition-colors duration-200&#34;&gt;
+          &lt;svg class=&#34;w-5 h-5 hb-embed-link&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25&#34;/&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    
+    &lt;div class=&#34;p-6 space-y-4&#34;&gt;
+      &lt;p class=&#34;text-zinc-600 dark:text-zinc-400 text-base leading-relaxed line-clamp-3&#34;&gt;
+    A great resource for learning
+  &lt;/p&gt;
+    &lt;/div&gt;
+    
+    
+    &lt;div class=&#34;absolute inset-0 pointer-events-none bg-gradient-to-r from-primary-500/0 via-primary-500/5 to-secondary-500/0 opacity-0 group-hover:opacity-100 transition-opacity duration-300&#34;&gt;&lt;/div&gt;
+    
+    
+    &lt;div class=&#34;sr-only&#34; data-hb-component=&#34;embed&#34; data-hb-version=&#34;1.0&#34; data-hb-license=&#34;MIT&#34;&gt;
+      Powered by Hugo Blox Builder - https://github.com/HugoBlox/hugo-blox-builder
+    &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;h3 id=&#34;custom-images&#34;&gt;Custom Images&lt;/h3&gt;
+&lt;p&gt;Embed beautiful images from any source with Hugo image processing (Unsplash, custom URLs, etc.):&lt;/p&gt;
+
+
+
+
+&lt;div class=&#34;group bg-white/90 dark:bg-zinc-900/90 backdrop-blur-sm rounded-2xl ring-1 ring-zinc-900/5 dark:ring-white/10 shadow-lg overflow-hidden transition-all duration-300 ease-out hover:shadow-xl hover:shadow-primary-500/10 hover:-translate-y-1 focus-within:ring-2 focus-within:ring-primary-500/50 my-6&#34; role=&#34;article&#34; aria-labelledby=&#34;hb-embed-title-hb-embed-56c603ec1ff6d8c696e5533f7d506168&#34;&gt;
+  
+    
+    &lt;div class=&#34;flex items-center gap-3 p-6 border-b border-zinc-100 dark:border-zinc-800&#34;&gt;
+      &lt;div class=&#34;flex-shrink-0&#34;&gt;
+        
+  &lt;div class=&#34;w-10 h-10 rounded-full bg-gradient-to-br from-zinc-700 to-zinc-800 flex items-center justify-center&#34;&gt;
+    &lt;svg class=&#34;w-5 h-5 text-white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M12 21a9.004 9.004 0 0 0 8.716-6.747M12 21a9.004 9.004 0 0 1-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 0 1 7.843 4.582M12 3a8.997 8.997 0 0 0-7.843 4.582m15.686 0A11.953 11.953 0 0 1 12 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0 1 21 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0 1 12 16.5a17.92 17.92 0 0 1-8.716-2.247m0 0A9.015 9.015 0 0 1 3 12c0-1.605.42-3.113 1.157-4.418&#34;/&gt;&lt;/svg&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&#34;flex-1 min-w-0&#34;&gt;
+        &lt;h3 id=&#34;hb-embed-title-hb-embed-56c603ec1ff6d8c696e5533f7d506168&#34; class=&#34;text-xl font-bold tracking-tight leading-tight truncate&#34;&gt;
+  &lt;a href=&#34;https://example.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;text-zinc-900 dark:text-zinc-100 hover:text-primary-600 dark:hover:text-primary-400 hover:underline transition-colors duration-200&#34;&gt;Data Visualization Guide&lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;div class=&#34;flex items-center gap-2 mt-1&#34;&gt;
+  &lt;span class=&#34;text-sm text-zinc-500 dark:text-zinc-500&#34;&gt;example.com&lt;/span&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&#34;flex-shrink-0&#34;&gt;
+        &lt;a href=&#34;https://example.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;text-zinc-400 hover:text-primary-500 transition-colors duration-200&#34;&gt;
+          &lt;svg class=&#34;w-5 h-5 hb-embed-link&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25&#34;/&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    
+    &lt;div class=&#34;p-6 space-y-4&#34;&gt;
+      &lt;div class=&#34;mb-4 overflow-hidden rounded-lg&#34;&gt;
+    &lt;img class=&#34;w-full h-auto transition-transform duration-500 ease-out group-hover:scale-105&#34; 
+         srcset=&#34;http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_cc155191d3732c13.webp 400w, http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_a97a2fdc495c4b7b.webp 600w, http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_c5d998b8783d864b.webp 800w, http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_304759715add893d.webp 800w&#34;
+         sizes=&#34;(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw&#34;
+         src=&#34;http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_cc155191d3732c13.webp&#34; 
+         width=&#34;400&#34; 
+         height=&#34;300&#34;
+         loading=&#34;lazy&#34; 
+         decoding=&#34;async&#34;
+         alt=&#34;Beautiful data visualization workspace&#34;
+         style=&#34;aspect-ratio: 400/300;&#34;&gt;
+  &lt;/div&gt;&lt;p class=&#34;text-zinc-600 dark:text-zinc-400 text-base leading-relaxed line-clamp-3&#34;&gt;
+    Beautiful data visualization workspace
+  &lt;/p&gt;
+    &lt;/div&gt;
+    
+    
+    &lt;div class=&#34;absolute inset-0 pointer-events-none bg-gradient-to-r from-primary-500/0 via-primary-500/5 to-secondary-500/0 opacity-0 group-hover:opacity-100 transition-opacity duration-300&#34;&gt;&lt;/div&gt;
+    
+    
+    &lt;div class=&#34;sr-only&#34; data-hb-component=&#34;embed&#34; data-hb-version=&#34;1.0&#34; data-hb-license=&#34;MIT&#34;&gt;
+      Powered by Hugo Blox Builder - https://github.com/HugoBlox/hugo-blox-builder
+    &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;You can also add images to any platform embed:&lt;/p&gt;
+
+
+
+
+&lt;div class=&#34;group bg-white/90 dark:bg-zinc-900/90 backdrop-blur-sm rounded-2xl ring-1 ring-zinc-900/5 dark:ring-white/10 shadow-lg overflow-hidden transition-all duration-300 ease-out hover:shadow-xl hover:shadow-primary-500/10 hover:-translate-y-1 focus-within:ring-2 focus-within:ring-primary-500/50 my-6&#34; role=&#34;article&#34; aria-labelledby=&#34;hb-embed-title-hb-embed-3e3a7bfde457f19209c129e1d6261bb8&#34;&gt;
+  
+    
+    &lt;div class=&#34;flex items-center gap-3 p-6 border-b border-zinc-100 dark:border-zinc-800&#34;&gt;
+      &lt;div class=&#34;flex-shrink-0&#34;&gt;
+        &lt;div class=&#34;w-10 h-10 rounded-full bg-gradient-to-br from-slate-800 to-slate-900 flex items-center justify-center&#34;&gt;
+    &lt;svg class=&#34;w-6 h-6 text-white&#34; fill=&#34;currentColor&#34; viewBox=&#34;3 3 18 18&#34;&gt;&lt;path d=&#34;M12 3C7.0275 3 3 7.12937 3 12.2276C3 16.3109 5.57625 19.7597 9.15374 20.9824C9.60374 21.0631 9.77249 20.7863 9.77249 20.5441C9.77249 20.3249 9.76125 19.5982 9.76125 18.8254C7.5 19.2522 6.915 18.2602 6.735 17.7412C6.63375 17.4759 6.19499 16.6569 5.8125 16.4378C5.4975 16.2647 5.0475 15.838 5.80124 15.8264C6.51 15.8149 7.01625 16.4954 7.18499 16.7723C7.99499 18.1679 9.28875 17.7758 9.80625 17.5335C9.885 16.9337 10.1212 16.53 10.38 16.2993C8.3775 16.0687 6.285 15.2728 6.285 11.7432C6.285 10.7397 6.63375 9.9092 7.20749 9.26326C7.1175 9.03257 6.8025 8.08674 7.2975 6.81794C7.2975 6.81794 8.05125 6.57571 9.77249 7.76377C10.4925 7.55615 11.2575 7.45234 12.0225 7.45234C12.7875 7.45234 13.5525 7.55615 14.2725 7.76377C15.9937 6.56418 16.7475 6.81794 16.7475 6.81794C17.2424 8.08674 16.9275 9.03257 16.8375 9.26326C17.4113 9.9092 17.76 10.7281 17.76 11.7432C17.76 15.2843 15.6563 16.0687 13.6537 16.2993C13.98 16.5877 14.2613 17.1414 14.2613 18.0065C14.2613 19.2407 14.25 20.2326 14.25 20.5441C14.25 20.7863 14.4188 21.0746 14.8688 20.9824C16.6554 20.364 18.2079 19.1866 19.3078 17.6162C20.4077 16.0457 20.9995 14.1611 21 12.2276C21 7.12937 16.9725 3 12 3Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&#34;flex-1 min-w-0&#34;&gt;
+        &lt;h3 id=&#34;hb-embed-title-hb-embed-3e3a7bfde457f19209c129e1d6261bb8&#34; class=&#34;text-xl font-bold tracking-tight leading-tight truncate&#34;&gt;
+  &lt;a href=&#34;https://github.com/plotly/plotly.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;text-zinc-900 dark:text-zinc-100 hover:text-primary-600 dark:hover:text-primary-400 hover:underline transition-colors duration-200&#34;&gt;plotly.py&lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;div class=&#34;flex items-center gap-2 mt-1&#34;&gt;
+  &lt;span class=&#34;text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;by 
+        &lt;a href=&#34;https://github.com/plotly&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;font-medium hover:text-primary-600 dark:hover:text-primary-400 hover:underline transition-colors duration-200&#34;&gt;plotly&lt;/a&gt;
+      &lt;/span&gt;&lt;span class=&#34;text-sm text-zinc-500 dark:text-zinc-500&#34;&gt;•&lt;/span&gt;
+        &lt;span class=&#34;inline-block w-2 h-2 rounded-full bg-primary-500&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;text-sm text-zinc-500 dark:text-zinc-500 capitalize&#34;&gt;Python&lt;/span&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&#34;flex-shrink-0&#34;&gt;
+        &lt;a href=&#34;https://github.com/plotly/plotly.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;text-zinc-400 hover:text-primary-500 transition-colors duration-200&#34;&gt;
+          &lt;svg class=&#34;w-5 h-5 hb-embed-link&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25&#34;/&gt;&lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    
+    
+    &lt;div class=&#34;p-6 space-y-4&#34;&gt;
+      &lt;div class=&#34;mb-4 overflow-hidden rounded-lg&#34;&gt;
+    &lt;img class=&#34;w-full h-auto transition-transform duration-500 ease-out group-hover:scale-105&#34; 
+         srcset=&#34;http://localhost:1313/photo-1551288049-bebda4e38f71_10164962980614054447_hu_2c29913437e2ac2.webp 400w, http://localhost:1313/photo-1551288049-bebda4e38f71_10164962980614054447_hu_bf80943d4102c1b5.webp 600w, http://localhost:1313/photo-1551288049-bebda4e38f71_10164962980614054447_hu_a9833621c56ba4be.webp 600w&#34;
+         sizes=&#34;(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw&#34;
+         src=&#34;http://localhost:1313/photo-1551288049-bebda4e38f71_10164962980614054447_hu_2c29913437e2ac2.webp&#34; 
+         width=&#34;400&#34; 
+         height=&#34;267&#34;
+         loading=&#34;lazy&#34; 
+         decoding=&#34;async&#34;
+         alt=&#34;plotly.py&#34;
+         style=&#34;aspect-ratio: 400/267;&#34;&gt;
+  &lt;/div&gt;&lt;p class=&#34;text-zinc-600 dark:text-zinc-400 text-base leading-relaxed line-clamp-3&#34;&gt;
+    The interactive graphing library for Python ✨
+  &lt;/p&gt;&lt;div class=&#34;flex items-center gap-6 pt-2&#34;&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
+          &lt;svg class=&#34;w-4 h-4 text-primary-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;currentColor&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path d=&#34;M6 2C4.89543 2 4 2.89543 4 4C4 4.74028 4.4022 5.38663 5 5.73244V7C5 8.65685 6.34315 10 8 10H10V11.2676C9.4022 11.6134 9 12.2597 9 13C9 14.1046 9.89543 15 11 15C12.1046 15 13 14.1046 13 13C13 12.2597 12.5978 11.6134 12 11.2676V10H14C15.6569 10 17 8.65685 17 7V5.73244C17.5978 5.38663 18 4.74028 18 4C18 2.89543 17.1046 2 16 2C14.8954 2 14 2.89543 14 4C14 4.74028 14.4022 5.38663 15 5.73244V7C15 7.55228 14.5523 8 14 8H8C7.44772 8 7 7.55228 7 7V5.73244C7.5978 5.38663 8 4.74028 8 4C8 2.89543 7.10457 2 6 2ZM6 4C6 3.44772 6.44772 3 7 3C7.55228 3 8 3.44772 8 4C8 4.55228 7.55228 5 7 5C6.44772 5 6 4.55228 6 4ZM11 13C11 12.4477 11.4477 12 12 12C12.5523 12 13 12.4477 13 13C13 13.5523 12.5523 14 12 14C11.4477 14 11 13.5523 11 13ZM16 3C15.4477 3 15 3.44772 15 4C15 4.55228 15.4477 5 16 5C16.5523 5 17 4.55228 17 4C17 3.44772 16.5523 3 16 3Z&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-3e3a7bfde457f19209c129e1d6261bb8-forks&#34;&gt;2.71k&lt;/span&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
+          &lt;svg class=&#34;w-4 h-4 text-red-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M12 9v3.75m9-.75a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9 3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+            &lt;a href=&#34;https://github.com/plotly/plotly.py/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;font-medium hover:text-primary-600 dark:hover:text-primary-400 hover:underline transition-colors duration-200&#34; id=&#34;hb-hb-embed-3e3a7bfde457f19209c129e1d6261bb8-issues&#34;&gt;720&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;flex items-center gap-1.5 text-sm text-zinc-600 dark:text-zinc-400&#34;&gt;
+          &lt;svg class=&#34;w-4 h-4 text-yellow-500&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M11.48 3.499a.562.562 0 0 1 1.04 0l2.125 5.111a.563.563 0 0 0 .475.345l5.518.442c.499.04.701.663.321.988l-4.204 3.602a.563.563 0 0 0-.182.557l1.285 5.385a.562.562 0 0 1-.84.61l-4.725-2.885a.563.563 0 0 0-.586 0L6.982 20.54a.562.562 0 0 1-.84-.61l1.285-5.386a.562.562 0 0 0-.182-.557l-4.204-3.602a.563.563 0 0 1 .321-.988l5.518-.442a.563.563 0 0 0 .475-.345z&#34;/&gt;&lt;/svg&gt;&lt;span id=&#34;hb-hb-embed-3e3a7bfde457f19209c129e1d6261bb8-stars&#34;&gt;17.741k&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;flex flex-wrap gap-1 pt-2&#34;&gt;&lt;span class=&#34;inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300&#34;&gt;
+          d3
+        &lt;/span&gt;&lt;span class=&#34;inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300&#34;&gt;
+          dashboard
+        &lt;/span&gt;&lt;span class=&#34;inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-primary-100 text-primary-800 dark:bg-primary-900/40 dark:text-primary-300&#34;&gt;
+          declarative
+        &lt;/span&gt;&lt;span class=&#34;text-xs text-zinc-500 dark:text-zinc-500&#34;&gt;+11&lt;/span&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    
+    &lt;div class=&#34;absolute inset-0 pointer-events-none bg-gradient-to-r from-primary-500/0 via-primary-500/5 to-secondary-500/0 opacity-0 group-hover:opacity-100 transition-opacity duration-300&#34;&gt;&lt;/div&gt;
+    
+    
+    &lt;div class=&#34;sr-only&#34; data-hb-component=&#34;embed&#34; data-hb-version=&#34;1.0&#34; data-hb-license=&#34;MIT&#34;&gt;
+      Powered by Hugo Blox Builder - https://github.com/HugoBlox/hugo-blox-builder
+    &lt;/div&gt;
+    
+&lt;/div&gt;
+&lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
+&lt;p&gt;Hugo Blox supports the popular 
+ format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p&gt;
+&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
+&lt;p&gt;Demo:&lt;/p&gt;
+
+
+
+
+&lt;div id=&#34;chart-195478632&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+  (function() {
+    async function fetchChartJSON() {
+      console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
+      const response = await fetch(&#39;.\/line-chart.json&#39;);
+      return await response.json();
+    }
+
+    let a = setInterval( function() {
+      if ( typeof window.Plotly === &#39;undefined&#39; ) {
+        console.debug(&#39;Plotly not loaded yet...&#39;)
+        return;
+      }
+      clearInterval( a );
+
+      fetchChartJSON().then(chart =&gt; {
+        console.debug(&#39;Plotting chart...&#39;)
+        window.Plotly.newPlot(&#39;chart-195478632&#39;, chart.data, chart.layout, {responsive: true});
+      });
+    }, 500 );
+  })();
+&lt;/script&gt;
+
+&lt;p&gt;You might also find the 
+ useful.&lt;/p&gt;
+&lt;h2 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h2&gt;
+&lt;p&gt;Hugo Blox supports the &lt;em&gt;Mermaid&lt;/em&gt; Markdown extension for diagrams.&lt;/p&gt;
+&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;graph TD
+A[Hard] --&gt;|Text| B(Round)
+B --&gt; C{Decision}
+C --&gt;|One| D[Result 1]
+C --&gt;|Two| E[Result 2]
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;sequenceDiagram
+Alice-&gt;&gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&gt;&gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&gt;&gt;Alice: Great!
+John-&gt;&gt;Bob: How about you?
+Bob--&gt;&gt;John: Jolly good!
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &amp;lt;--&amp;gt; C2: Cool label
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;classDiagram
+Class01 &lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &lt;--&gt; C2: Cool label
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;stateDiagram
+[*] --&gt; Still
+Still --&gt; [*]
+Still --&gt; Moving
+Moving --&gt; Still
+Moving --&gt; Crash
+Crash --&gt; [*]
+&lt;/div&gt;
+&lt;h2 id=&#34;data-frames&#34;&gt;Data Frames&lt;/h2&gt;
+&lt;p&gt;Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em&gt;Table&lt;/em&gt; shortcode to your page:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;table&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;results.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;header&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;caption&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Table 1: My results&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table class=&#34;table-auto w-full&#34;&gt;
+  
+    
+    
+    &lt;thead&gt;
+      &lt;tr&gt;  &lt;th class=&#34;border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left&#34;&gt;customer_id&lt;/th&gt;  &lt;th class=&#34;border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left&#34;&gt;score&lt;/th&gt;  &lt;/tr&gt;
+    &lt;/thead&gt;
+  
+  &lt;tbody&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;1&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;0&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;2&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;0.5&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;3&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;1&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+  &lt;/tbody&gt;
+  
+    &lt;caption class=&#34;table-caption&#34;&gt;Table 1: My results&lt;/caption&gt;
+  
+&lt;/table&gt;
+
+&lt;h2 id=&#34;interactive-buttons&#34;&gt;Interactive Buttons&lt;/h2&gt;
+&lt;p&gt;Add engaging call-to-action buttons to your data visualization posts:&lt;/p&gt;
+&lt;h3 id=&#34;basic-buttons&#34;&gt;Basic Buttons&lt;/h3&gt;
+
+
+
+&lt;div class=&#34;text-left&#34;&gt;
+  &lt;a
+    id=&#34;button-8ddf9ffadb4772c7c2345a263d36152a&#34;
+    href=&#34;http://localhost:1313/&#34;
+    
+    
+    
+    class=&#34;inline-flex items-center gap-2 font-medium no-underline transition-all duration-300 ease-out transform-gpu focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-zinc-900 disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none bg-gradient-to-br from-primary-500 to-primary-600 hover:from-primary-600 hover:to-primary-700 active:from-primary-700 active:to-primary-800 text-white shadow-lg shadow-primary-500/25 hover:shadow-xl hover:shadow-primary-500/30 hover:-translate-y-0.5 hover:scale-[1.02] active:scale-[0.98] focus:ring-primary-500/50 px-4 py-2 text-base rounded-lg&#34;
+    role=&#34;button&#34;
+    aria-label=&#34;Contact Us&#34;
+  &gt;
+    
+    
+    
+    
+    &lt;span&gt;Contact Us&lt;/span&gt;
+    
+    
+    
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;div class=&#34;text-left&#34;&gt;
+  &lt;a
+    id=&#34;button-dfbb79f19a95b7bdbec434bb14f6920f&#34;
+    href=&#34;https://plotly.com/python/&#34;
+    target=&#34;_blank&#34;
+    rel=&#34;noopener noreferrer&#34;
+    
+    class=&#34;inline-flex items-center gap-2 font-medium no-underline transition-all duration-300 ease-out transform-gpu focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-zinc-900 disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none bg-gradient-to-br from-secondary-500 to-secondary-600 hover:from-secondary-600 hover:to-secondary-700 active:from-secondary-700 active:to-secondary-800 text-white shadow-lg shadow-secondary-500/25 hover:shadow-xl hover:shadow-secondary-500/30 hover:scale-105 active:scale-95 focus:ring-secondary-500/50 px-4 py-2 text-base rounded-lg&#34;
+    role=&#34;button&#34;
+    aria-label=&#34;Learn Plotly&#34;
+  &gt;
+    
+    
+    
+    
+    &lt;span&gt;Learn Plotly&lt;/span&gt;
+    
+    
+    
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go-html-template&#34; data-lang=&#34;go-html-template&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;{{&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;button&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;url&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;}}&lt;/span&gt;Contact Us&lt;span class=&#34;cp&#34;&gt;{{&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;button&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;{{&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;button&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;url&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;https://plotly.com/python/&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;new_tab&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;style&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;secondary&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;}}&lt;/span&gt;Learn Plotly&lt;span class=&#34;cp&#34;&gt;{{&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;button&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;styled-buttons-for-data-actions&#34;&gt;Styled Buttons for Data Actions&lt;/h3&gt;
+
+
+
+&lt;div class=&#34;text-center&#34;&gt;
+  &lt;a
+    id=&#34;button-a4b112a08a2d9c0060972a83503e9243&#34;
+    href=&#34;#&#34;
+    
+    
+    
+    class=&#34;inline-flex items-center gap-2 font-medium no-underline transition-all duration-300 ease-out transform-gpu focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-zinc-900 disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none bg-gradient-to-br from-primary-500 to-primary-600 hover:from-primary-600 hover:to-primary-700 active:from-primary-700 active:to-primary-800 text-white shadow-lg shadow-primary-500/25 hover:shadow-xl hover:shadow-primary-500/30 hover:-translate-y-0.5 hover:scale-[1.02] active:scale-[0.98] focus:ring-primary-500/50 px-6 py-3 text-lg rounded-lg&#34;
+    role=&#34;button&#34;
+    aria-label=&#34;View Dashboard&#34;
+  &gt;
+    
+    
+      &lt;span class=&#34;flex-shrink-0&#34;&gt;
+        &lt;svg class=&#34;w-4 h-4&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M3 13.125C3 12.504 3.504 12 4.125 12h2.25c.621 0 1.125.504 1.125 1.125v6.75C7.5 20.496 6.996 21 6.375 21h-2.25A1.125 1.125 0 0 1 3 19.875zm6.75-4.5c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125v11.25c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 0 1-1.125-1.125zm6.75-4.5c0-.621.504-1.125 1.125-1.125h2.25C20.496 3 21 3.504 21 4.125v15.75c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 0 1-1.125-1.125z&#34;/&gt;&lt;/svg&gt;
+      &lt;/span&gt;
+    
+    
+    
+    &lt;span&gt;View Dashboard&lt;/span&gt;
+    
+    
+    
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;div class=&#34;text-left&#34;&gt;
+  &lt;a
+    id=&#34;button-7257a97fcb62123180e9a3ff18c6ba2e&#34;
+    href=&#34;http://localhost:1313/data/results.csv&#34;
+    
+    
+    
+    class=&#34;inline-flex items-center gap-2 font-medium no-underline transition-all duration-300 ease-out transform-gpu focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-zinc-900 disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none bg-white dark:bg-zinc-900 border-2 border-primary-500 text-primary-600 dark:text-primary-400 hover:bg-primary-50 dark:hover:bg-primary-950/50 hover:border-primary-600 active:bg-primary-100 dark:active:bg-primary-950 shadow-md hover:shadow-lg hover:scale-105 active:scale-95 focus:ring-primary-500/50 px-4 py-2 text-base rounded-lg&#34;
+    role=&#34;button&#34;
+    aria-label=&#34;Download Data&#34;
+  &gt;
+    
+    
+      &lt;span class=&#34;flex-shrink-0&#34;&gt;
+        &lt;svg class=&#34;w-4 h-4&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m.75 12l3 3m0 0l3-3m-3 3v-6m-1.5-9H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
+      &lt;/span&gt;
+    
+    
+    
+    &lt;span&gt;Download Data&lt;/span&gt;
+    
+    
+    
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;div class=&#34;text-left&#34;&gt;
+  &lt;a
+    id=&#34;button-d6a1ac6c3106bbf4d8945142b9075f87&#34;
+    href=&#34;https://github.com/HugoBlox&#34;
+    target=&#34;_blank&#34;
+    rel=&#34;noopener noreferrer&#34;
+    
+    class=&#34;inline-flex items-center gap-2 font-medium no-underline transition-all duration-300 ease-out transform-gpu focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-zinc-900 disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none bg-transparent text-primary-600 dark:text-primary-400 hover:bg-primary-50 dark:hover:bg-primary-950/50 active:bg-primary-100 dark:active:bg-primary-950 hover:scale-105 active:scale-95 focus:ring-primary-500/50 px-4 py-2 text-base rounded-lg&#34;
+    role=&#34;button&#34;
+    aria-label=&#34;View Source Code&#34;
+  &gt;
+    
+    
+    
+    
+    &lt;span&gt;View Source Code&lt;/span&gt;
+    
+    
+    
+      &lt;span class=&#34;flex-shrink-0&#34;&gt;
+        &lt;svg class=&#34;w-4 h-4&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.5 6H5.25A2.25 2.25 0 0 0 3 8.25v10.5A2.25 2.25 0 0 0 5.25 21h10.5A2.25 2.25 0 0 0 18 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25&#34;/&gt;&lt;/svg&gt;
+      &lt;/span&gt;
+    
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go-html-template&#34; data-lang=&#34;go-html-template&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;{{&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;button&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;url&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;style&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;primary&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;lg&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;align&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;center&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;icon&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;chart-bar&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;}}&lt;/span&gt;View Dashboard&lt;span class=&#34;cp&#34;&gt;{{&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;button&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;{{&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;button&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;url&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/data/results.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;style&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;outline&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;icon&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;document-arrow-down&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;}}&lt;/span&gt;Download Data&lt;span class=&#34;cp&#34;&gt;{{&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;button&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;{{&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;button&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;url&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;https://github.com/HugoBlox&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;new_tab&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;style&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;ghost&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;icon&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;arrow-top-right-on-square&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;icon_position&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;right&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;}}&lt;/span&gt;View Source Code&lt;span class=&#34;cp&#34;&gt;{{&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;button&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;multiple-aligned-buttons&#34;&gt;Multiple Aligned Buttons&lt;/h3&gt;
+
+
+
+&lt;div class=&#34;text-center&#34;&gt;
+  &lt;a
+    id=&#34;button-385c1f8d03f32c9e84dfd796a963385f&#34;
+    href=&#34;https://jupyter.org/&#34;
+    target=&#34;_blank&#34;
+    rel=&#34;noopener noreferrer&#34;
+    
+    class=&#34;inline-flex items-center gap-2 font-medium no-underline transition-all duration-300 ease-out transform-gpu focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-zinc-900 disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none bg-gradient-to-br from-secondary-500 to-secondary-600 hover:from-secondary-600 hover:to-secondary-700 active:from-secondary-700 active:to-secondary-800 text-white shadow-lg shadow-secondary-500/25 hover:shadow-xl hover:shadow-secondary-500/30 hover:scale-105 active:scale-95 focus:ring-secondary-500/50 px-4 py-2 text-base rounded-full&#34;
+    role=&#34;button&#34;
+    aria-label=&#34;Try Jupyter&#34;
+  &gt;
+    
+    
+    
+    
+    &lt;span&gt;Try Jupyter&lt;/span&gt;
+    
+    
+    
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;div class=&#34;text-center&#34;&gt;
+  &lt;a
+    id=&#34;button-b13c69fdeecb23f417af9a8fd347bf36&#34;
+    href=&#34;https://colab.research.google.com/&#34;
+    target=&#34;_blank&#34;
+    rel=&#34;noopener noreferrer&#34;
+    
+    class=&#34;inline-flex items-center gap-2 font-medium no-underline transition-all duration-300 ease-out transform-gpu focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-zinc-900 disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none bg-gradient-to-br from-primary-500 to-primary-600 hover:from-primary-600 hover:to-primary-700 active:from-primary-700 active:to-primary-800 text-white shadow-lg shadow-primary-500/25 hover:shadow-xl hover:shadow-primary-500/30 hover:-translate-y-0.5 hover:scale-[1.02] active:scale-[0.98] focus:ring-primary-500/50 px-4 py-2 text-base rounded-full&#34;
+    role=&#34;button&#34;
+    aria-label=&#34;Open in Colab&#34;
+  &gt;
+    
+    
+      &lt;span class=&#34;flex-shrink-0&#34;&gt;
+        &lt;svg class=&#34;w-4 h-4&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.59 14.37a6 6 0 0 1-5.84 7.38v-4.8m5.84-2.58a14.98 14.98 0 0 0 6.16-12.12A14.98 14.98 0 0 0 9.631 8.41m5.96 5.96a14.926 14.926 0 0 1-5.841 2.58m-.119-8.54a6 6 0 0 0-7.381 5.84h4.8m2.581-5.84a14.927 14.927 0 0 0-2.58 5.84m2.699 2.7a15.53 15.53 0 0 1-.311.06a15.09 15.09 0 0 1-2.448-2.448a14.9 14.9 0 0 1 .06-.312m-2.24 2.39a4.493 4.493 0 0 0-1.757 4.306a4.493 4.493 0 0 0 4.306-1.758M16.5 9a1.5 1.5 0 1 1-3 0a1.5 1.5 0 0 1 3 0&#34;/&gt;&lt;/svg&gt;
+      &lt;/span&gt;
+    
+    
+    
+    &lt;span&gt;Open in Colab&lt;/span&gt;
+    
+    
+    
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go-html-template&#34; data-lang=&#34;go-html-template&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;{{&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;button&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;url&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;https://jupyter.org/&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;new_tab&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;style&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;secondary&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;rounded&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;full&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;align&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;center&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;}}&lt;/span&gt;Try Jupyter&lt;span class=&#34;cp&#34;&gt;{{&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;button&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;{{&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;button&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;url&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;https://colab.research.google.com/&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;new_tab&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;style&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;primary&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;rounded&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;full&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;align&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;center&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;icon&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;rocket-launch&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;}}&lt;/span&gt;Open in Colab&lt;span class=&#34;cp&#34;&gt;{{&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;button&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

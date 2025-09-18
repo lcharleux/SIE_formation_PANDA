@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachers | CTRL, CODE, COMMIT: Digital Skills for the Modern PhD (CCC)</title>
+    <link>http://localhost:1313/authors/</link>
+      <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teachers</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_892c01a9011e56d4.png</url>
+      <title>Teachers</title>
+      <link>http://localhost:1313/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

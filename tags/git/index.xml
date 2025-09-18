@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIT | CTRL, CODE, COMMIT: Digital Skills for the Modern PhD (CCC)</title>
+    <link>http://localhost:1313/tags/git/</link>
+      <atom:link href="http://localhost:1313/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <description>GIT</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_892c01a9011e56d4.png</url>
+      <title>GIT</title>
+      <link>http://localhost:1313/tags/git/</link>
+    </image>
+    
+    <item>
+      <title>Git and GitHub</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;You’ve probably done this:
+•	manuscript_v2_FINAL.docx
+•	manuscript_v2_FINAL_revised_OK_THIS_ONE.tex
+•	manuscript_v2_FINAL_revised_OK_THIS_ONE_FOR_REAL_bis_bis.docx&lt;/p&gt;
+&lt;p&gt;…we’ve all been there.&lt;/p&gt;
+&lt;p&gt;It’s time to break up with folders full of confusing file versions and discover Git: the ultimate time machine, collaboration engine, and safety net for your research.&lt;/p&gt;
+&lt;p&gt;In this hands-on tutorial, you’ll learn:
+•	🗂️ How to track changes in your code, scripts, or manuscripts
+•	🧠 How to stop fearing overwrites or “breaking everything”
+•	🤝 How to collaborate without emailing ZIP files
+•	🛠️ How to use GitHub (and understand what a “pull request” actually is)
+•	🔍 How Git supports open, transparent, and reproducible research&lt;/p&gt;
+&lt;p&gt;No prior experience needed — if you can save a file, you can learn Git.
+And once you do, you’ll wonder how you ever worked without it.&lt;/p&gt;
+&lt;p&gt;Let’s make version control your new best research habit.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Docker for Researchers: Because “It Works on My Machine” Isn’t Reproducible</title>
+      <link>http://localhost:1313/blocks/docker/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blocks/docker/</guid>
+      <description>&lt;p&gt;Ever tried to re-run your code six months later and it just… doesn’t?
+Or shared your scripts with a colleague and it instantly breaks on their system?&lt;/p&gt;
+&lt;p&gt;Welcome to the jungle of research environments.
+Docker is your exit strategy.&lt;/p&gt;
+&lt;p&gt;In this tutorial, we’ll demystify Docker — not for DevOps pros, but for scientists who want to:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;•	📦 Package your code and environment so it runs anywhere, the same way
+•	🔁 Reproduce your own work (and others’) without dependency hell
+•	🧪 Bundle Jupyter notebooks, scripts, tools, and data in clean containers
+•	🚀 Share your projects with collaborators without painful setup guides
+•	🧊 Freeze your environment for publication, thesis submission, or archiving
+•	🧹 Keep your machine clean while testing new tools in isolated sandboxes
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;No need to be a sysadmin — we’ll start from scratch, show you why Docker is a game changer, and teach you how to use it for what matters: research that runs.&lt;/p&gt;
+&lt;p&gt;Docker: because your research deserves to outlive your laptop.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Git Good: Version Control Without the Chaos</title>
+      <link>http://localhost:1313/blocks/git/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blocks/git/</guid>
+      <description>&lt;p&gt;You’ve probably done this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;•	manuscript_v2_FINAL.docx
+•	manuscript_v2_FINAL_revised_OK_THIS_ONE.tex
+•	manuscript_v2_FINAL_revised_OK_THIS_ONE_FOR_REAL_bis_bis.docx
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;… we’ve all been there.&lt;/p&gt;
+&lt;p&gt;It’s time to break up with folders full of confusing file versions and discover Git: the ultimate time machine, collaboration engine, and safety net for your research.&lt;/p&gt;
+&lt;p&gt;In this hands-on tutorial, you’ll learn:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;•	🗂️ How to track changes in your code, scripts, or manuscripts
+•	🧠 How to stop fearing overwrites or “breaking everything”
+•	🤝 How to collaborate without emailing ZIP files
+•	🛠️ How to use GitHub (and understand what a “pull request” actually is)
+•	🔍 How Git supports open, transparent, and reproducible research
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;No prior experience needed — if you can save a file, you can learn Git.
+And once you do, you’ll wonder how you ever worked without it.&lt;/p&gt;
+&lt;p&gt;Let’s make version control your new best research habit.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Git Good: Version Control Without the Chaos</title>
+      <link>http://localhost:1313/blocks/latex/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blocks/latex/</guid>
+      <description>&lt;p&gt;Writing your PhD isn’t just about the science — it’s about making it look clean, sharp, and professional, even when your supervisor sends you five rounds of conflicting comments.&lt;/p&gt;
+&lt;p&gt;Enter LaTeX: the typesetting language of science. It’s not just for mathematicians and masochists — it’s the tool that finally lets you:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;•	🧼 Stop fighting formatting in Word
+•	✍️ Write beautiful equations, figures, and citations without frustration
+•	🧩 Split your monster manuscript into clean, modular files
+•	🔁 Track versions and integrate seamlessly with Git
+•	📬 Make revisions painless (even with multiple supervisors)
+•	🎓 Output ready-to-submit PDFs for journals, conferences, and your thesis
+•	🧠 Focus on your ideas — not on where that damn figure went
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In this hands-on session, we’ll go from “what even is this code?” to “wow, I never want to touch Word again.”
+We’ll cover the basics, teach you how to structure a real paper or thesis, and show how to keep your writing workflow smooth, stable, and scalable.&lt;/p&gt;
+&lt;p&gt;LaTeX isn’t a hurdle — it’s a superpower.
+Let’s make your manuscript as smart as your research.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Python for PhDs: Automate the Boring, Analyze the Data, Impress Your Supervisor</title>
+      <link>http://localhost:1313/blocks/python/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blocks/python/</guid>
+      <description>&lt;p&gt;You didn’t start a PhD to spend your days copying-pasting in Excel or manually renaming 200 files.&lt;/p&gt;
+&lt;p&gt;You started it to do science — and Python is the tool that lets you focus on thinking, not clicking.&lt;/p&gt;
+&lt;p&gt;In this hands-on tutorial, you’ll learn how Python can help you:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;•	📊 Crunch data without crying over spreadsheets
+•	🔁 Automate repetitive tasks so you can stop being your own intern
+•	🧪 Build clean, reproducible workflows for analysis, simulation, or visualization
+•	📦 Use the Python ecosystem: NumPy, Pandas, Matplotlib, Jupyter, SciPy, and friends
+•	🧠 Organize your research code so it actually makes sense six months later
+•	🤖 Open the door to more advanced tools: machine learning, modeling, simulations…
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;No coding background? No problem.
+We’ll start from zero and build up the skills every researcher wishes they’d learned earlier.&lt;/p&gt;
+&lt;p&gt;Python isn’t just for programmers — it’s the Swiss army knife of modern research.
+Let’s make it your secret weapon.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Workflow</title>
+      <link>http://localhost:1313/workflow/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/workflow/</guid>
+      <description>&lt;div class=&#34;mermaid&#34;&gt;flowchart TD
+  A([&#34;LaTeX&#34;]) --&gt; B{&#34;Decision&#34;}
+  B --&gt; C[&#34;Stop&#34;] &amp; D[&#34;GIT&#34;]
+  D --&gt; E[&#34;Python 1/2&#34;]
+  E --&gt; F{&#34;Decision&#34;}
+  F --&gt; C
+  F --&gt; G[&#34;Docker&#34;]
+  G --&gt; H[&#34;Python 2/2&#34;]
+  H --&gt; C
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
