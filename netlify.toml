@@ -41,7 +41,6 @@
     pnpm install --verbose
     hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL --logLevel debug --printI18nWarnings --printPathWarnings
     pnpm dlx pagefind --source 'public' --verbose
-    pnpm add mermaid
   """
 
 [context.branch-deploy]
