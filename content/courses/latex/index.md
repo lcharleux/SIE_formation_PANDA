@@ -11,7 +11,6 @@ tags:
   - GITHub
 authors:
   - admin
-  - celmo
 ---
 
 Writing your PhD isn’t just about the science — it’s about making it look clean, sharp, and professional, even when your supervisor sends you five rounds of conflicting comments.

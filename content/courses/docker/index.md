@@ -9,7 +9,8 @@ tags:
   - Docker
   - Python
   - GIT
-  
+authors:
+  - celmo
 ---
 
 Ever tried to re-run your code six months later and it just… doesn’t?

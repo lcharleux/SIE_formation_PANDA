@@ -8,6 +8,9 @@ links:
 tags:
   - GIT
   - GIThub
+authors:
+  - celmo
+  - admin
 ---
 
 You’ve probably done this:

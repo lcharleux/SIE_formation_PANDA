@@ -9,6 +9,8 @@ tags:
   - Python
   - GIT
   - GITHub
+authors:
+  - admin
 ---
 
 You didn’t start a PhD to spend your days copying-pasting in Excel or manually renaming 200 files.
