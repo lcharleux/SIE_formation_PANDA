@@ -45,7 +45,7 @@ In this session:
 
 ⸻
 
-🐍 Step 3: Python 1/2 — Programming Essentials for Researchers
+🐍 Step 3: [Python 1/2 — Programming Essentials for Researchers]({{< relref "courses/python/index.md" >}})
 
 You don’t need to be a software engineer to use Python effectively. This first module emphasizes practical research tasks: data analysis, automation, and visualization.
 
@@ -117,5 +117,6 @@ This series is open to all PhD students, especially those who:
 ⸻
 
 Have questions or unsure where to begin? Contact us — we’ll help you design the path that fits your needs.
+
 
 <!--more-->
