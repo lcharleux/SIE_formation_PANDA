@@ -8,8 +8,8 @@ main:
 - name: Workflow
   url: /workflow
   weight: 10
-- name: Courses Blocks
-  url: /blocks
+- name: Courses
+  url: /courses
   weight: 11
 # - name: Talks
 #   url: /#talks

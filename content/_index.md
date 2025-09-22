@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Course Blocks'
-date: 2022-10-24
+title: 'Courses'
+publishDate: 2025-09-22
 type: landing
 
 design:
@@ -99,10 +99,11 @@ sections:
         Sure, you’re here to do research — but research today runs on scripts, systems, and reproducible science. Whether you’re writing a paper, crunching data, or collaborating across continents, knowing your way around tools like Git, Python, Docker, LaTeX, and Typst isn’t just nice — it’s essential.
 
         This workshop isn’t about becoming a full-stack developer. It’s about becoming a confident, independent researcher who can:
-          •	Stop losing hours to broken code or messy folders
-          •	Version your work like a pro (no more “final_v3_revised_REAL_final.tex”)
-          •	Collaborate without chaos
-          •	Reuse your setups, automate the boring stuff, and actually save time
+
+          -	Stop losing hours to broken code or messy folders
+          -	Version your work like a pro (no more `final_v3_revised_REAL_final.tex`)
+          -	Collaborate without chaos
+          -	Reuse your setups, automate the boring stuff, and actually save time
 
         We’re not here to throw buzzwords at you — we’re here to show you how a minimal, smart digital workflow can make your PhD smoother, more reproducible, and a whole lot less frustrating.
 
@@ -111,35 +112,35 @@ sections:
     design:
       columns: '1'
   
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: card
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: Recent News
+  #     subtitle: ''
+  #     text: ''
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: post
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       tag: ''
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ''
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: card
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
   # - block: cta-card
   #   demo: true # Only display this section in the Hugo Blox Builder demo site
   #   content:

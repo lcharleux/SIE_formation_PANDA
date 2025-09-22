@@ -1,6 +1,7 @@
 ---
 title: "Python for PhDs: Automate the Boring, Analyze the Data, Impress Your Supervisor"
-date: "2023-10-26"
+date: "2025-10-26"
+publishDate: "2025-09-01"
 links:
   - type: site
     url: https://www.latex-project.org/

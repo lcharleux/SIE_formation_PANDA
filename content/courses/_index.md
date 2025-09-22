@@ -1,7 +1,7 @@
 ---
-title: Blocks
+title: Courses
 cms_exclude: true
-#url: talk
+url: courses
 
 # View
 view: card

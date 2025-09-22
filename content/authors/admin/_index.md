@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Maître de conférences HDR  Associate professor
+role: Associate professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
