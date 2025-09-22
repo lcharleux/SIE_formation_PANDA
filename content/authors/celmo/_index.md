@@ -10,7 +10,7 @@ first_name: Christian
 last_name: Elmo
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: he/him/it
 
 # Status emoji
 status:
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Engineer
+role: PhD Research Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -41,47 +41,30 @@ profiles:
   - icon: brands/github
     url: https://github.com/elmokulc
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/lcharleux/
+    url: https://fr.linkedin.com/in/christian-elmo-0b54b6127
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=8sJtXvcAAAAJ&hl=fr
+    url: https://scholar.google.com/citations?user=8sJtXvcAAAAJ&hl=fr&oi=ao
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-3875-1980
 
 interests:
   - Mechatronics
   - Coffee
+  - Computer Vision
+  - Clean Code
+  - Open Source
 
-# education:
-#   - area: 'Habilitation à Diriger les Recherches (HDR)'
-#     institution: Université Savoie Mont Blanc
-#     date_start: 2023-09-01
-#     date_end: 2023-06-06
-#     summary: |
-#       La conception, le dimensionnement et le pilotage des systèmes mécatroniques impliquent une part importante de modélisation numérique. Mes activités de recherche s'inscrivent dans ce contexte et sont mises en œuvre pour être appliquées à divers systèmes mécaniques. Elles sont basées sur des discussions à plusieurs niveaux entre : la modélisation mécanique et physique des phénomènes impliqués, leur formulation mathématique, les outils de simulation, tant logiciels que matériels, nécessaires à l'extraction des données et enfin la manière dont ces données permettent de résoudre les problèmes visés. D'un point de vue applicatif, mon travail s'est concentré sur 4 thèmes principaux. La modélisation des essais de nanoindentation utilisés pour extraire les propriétés mécaniques des matériaux cristallins et vitreux. Le développement de modèles compartimentés qui permettent de modéliser plus simplement le comportement mécanique des matériaux en introduisant une part d'hétérogénéité. Le développement de systèmes de positionnement par vision monoculaire appliqués à la navigation chirurgicale. La modélisation, l'optimisation et le contrôle de systèmes de récupération d'énergie vibratoire à large bande basés sur des oscillateurs mécaniques non linéaires.
-#     button:
-#       text: 'Read Thesis'
-#       url: 'https://theses.hal.science/tel-04959206v1'
-#   - area: PhD in Mechanical Engineering
-#     institution: Grenoble INP
-#     date_start: 2003-09-01
-#     date_end: 2006-12-06
-#     summary: |
-#       Cette thèse traite de l'essai d'indentation instrumenté. Des méthodes originales sont développées pour déterminer les propriétés mécaniques de matériaux variés allant des métaux cristallins aux verres. Deux lois de comportement sont sélectionnées pour représenter les deux familles de matériaux: une loi de type Hollomon pour les métaux cristallins et une loi de type Drucker-Prager pour les verres métalliques. Les méthodes expérimentales sont décrites et les grandeurs caractéristiques des essais extraites. Deux méthodes sont proposées: la première utilise les paramètres extraits des essais d'indentation pour déterminer deux grandeurs caractéristiques de la plasticité des matériaux indentés. La seconde méthode propose d'exploiter le défaut sommital de l'indenteur pour déterminer un paramètre supplémentaire: le module d'élasticité.
-#     button:
-#       text: 'Read Thesis'
-#       url: 'https://theses.hal.science/tel-04959206/'
-#   - area: DEA Mecanique
-#     institution: Université Joseph Fourier
-#     date_start: 2002-09-01
-#     date_end: 2003-09-01
-#     summary: ''
+education:
 
-#   - area: Eleve Normalien
-#     institution: ENS Cachan
-#     date_start: 1999-09-01
-#     date_end: 2003-09-01
-#     summary: ''
-
+  - area: PhD in Engineering Science
+    institution: université Savoie Mont-Blanc
+    date_start: 2020-01-01
+    date_end: 2023-03-31
+    summary: |
+      L'apport principal de cette thèse permet de répondre aux besoins de navigation chirurgicale pour le soin de certaines pathologies de la liaison scapulo-humérale. Un système de localisation temps réel basé sur la vision monoculaire est proposé. Un localisateur original est développé à partir d'un d'ensemble de marqueurs plans rigidement fixés sur un objet hôte dont la géométrie peut être quelconque. L'approche de calibration proposée permet de retrouver la position relative des marqueurs plans en s'appuyant un jeu d'image de cet objet observé suivant différents points de vue. \`A l'issue de cette étape de calibration, La position spatiale de l'objet est accessible quelle que soit son orientation face à la caméra. Cette localisation est robuste face aux contraintes inhérentes aux marqueurs plans individuels en s'affranchissant notamment du problème d'ambiguïté de pose. Le dispositif a été éprouvé durant des séances en laboratoire d'anatomie lors de la pose de clous centromédullaires de l'humérus et lors de la mise en place de la partie glénoïdienne d'une prothèse inversée en suivant les préconisations d'une planification chirurgicale. 
+    button:
+      text: 'Read Thesis'
+      url: 'https://theses.hal.science/tel-04146005v1'
 work:
   - position: Research Engineer
     company_name: Université Savoie Mont Blanc
@@ -145,4 +128,4 @@ languages:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Ludovic is an associate professor at Université Savoie Mont Blanc, affiliated with the SYMME laboratory and Polytech Annecy-Chambéry. His research focuses on the modeling and simulation of mechanical systems for mechatronics, with applications spanning from indentation mechanics at micro/nano scale to nonlinear vibration energy harvesting and vision-based localization for surgical navigation. He combines theoretical modeling with experimental validation and emphasizes open, reproducible science through the development of open-source numerical tools. His work is marked by a strong interdisciplinarity, close industrial collaborations, and an ability to explore non-mainstream approaches, particularly in material modeling.
+Christian is a research engineer and PhD graduate at Université Savoie Mont Blanc, affiliated with the SYMME laboratory. His work focuses on computer vision applied to biomedical contexts, with a particular emphasis on three-dimensional localization and 3D digitization of instruments and anatomical structures. He develops methods that combine physical devices (stylus, ArUco markers, monocular cameras) with vision-based algorithms to achieve high-precision reconstruction and tracking, while rigorously assessing repeatability and robustness. He places strong emphasis on practical, reproducible tools and real-world applications — notably in computer-assisted surgery — through interdisciplinary collaborations spanning anatomy, biomechanics, and surgery. His research is characterized by a pragmatic approach that integrates experimental validation, instrumentation, and image processing.
