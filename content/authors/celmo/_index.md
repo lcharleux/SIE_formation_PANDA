@@ -3,7 +3,7 @@
 title: Christian Elmo
 
 # Name pronunciation (optional)
-name_pronunciation: 'ˈkɹɪstʃən ˈɛlmoʊ'
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Christian
@@ -55,16 +55,16 @@ interests:
   - Open Source
 
 education:
-    button:
-      text: 'Read Thesis'
-      url: 'https://theses.hal.science/tel-04146005v1'
+
   - area: PhD in Engineering Science
     institution: université Savoie Mont-Blanc
     date_start: 2020-01-01
     date_end: 2023-03-31
     summary: |
       L'apport principal de cette thèse permet de répondre aux besoins de navigation chirurgicale pour le soin de certaines pathologies de la liaison scapulo-humérale. Un système de localisation temps réel basé sur la vision monoculaire est proposé. Un localisateur original est développé à partir d'un d'ensemble de marqueurs plans rigidement fixés sur un objet hôte dont la géométrie peut être quelconque. L'approche de calibration proposée permet de retrouver la position relative des marqueurs plans en s'appuyant un jeu d'image de cet objet observé suivant différents points de vue. \`A l'issue de cette étape de calibration, La position spatiale de l'objet est accessible quelle que soit son orientation face à la caméra. Cette localisation est robuste face aux contraintes inhérentes aux marqueurs plans individuels en s'affranchissant notamment du problème d'ambiguïté de pose. Le dispositif a été éprouvé durant des séances en laboratoire d'anatomie lors de la pose de clous centromédullaires de l'humérus et lors de la mise en place de la partie glénoïdienne d'une prothèse inversée en suivant les préconisations d'une planification chirurgicale. 
-
+    button:
+      text: 'Read Thesis'
+      url: 'https://theses.hal.science/tel-04146005v1'
 work:
   - position: Research Engineer
     company_name: Université Savoie Mont Blanc
