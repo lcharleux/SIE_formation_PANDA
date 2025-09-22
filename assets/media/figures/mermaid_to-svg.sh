@@ -1,0 +1,1 @@
+mmdc -i workflow.mmd -o workflow.svg
