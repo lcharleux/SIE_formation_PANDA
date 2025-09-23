@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: LaTeX session
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Course Session
+# event_url: https://example.org
 
 location: Hugo Blox Builder HQ
 address:

@@ -112,6 +112,15 @@ sections:
     design:
       columns: '1'
   
+  - block: markdown
+    content:
+      title: 'Doctoral school support'
+      subtitle: ''
+      text: |
+        This training is organized by the SIE Doctoral School of Université Savoie Mont Blanc (USMB). It is part of SIE’s commitment to equipping doctoral candidates with practical, modern research skills that support rigorous, collaborative, and reproducible work across disciplines. 
+
+    design:
+      columns: '1'
   # - block: collection
   #   id: news
   #   content:

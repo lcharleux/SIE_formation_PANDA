@@ -36,6 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "CTRL, CODE, COMMIT: Digital Skills for the Modern PhD"
+      filename: "logos/usmb.png"
 
 # Site footer
 footer:

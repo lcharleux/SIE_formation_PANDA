@@ -1,5 +1,5 @@
 ---
-title: "LaTeX It Happen: Writing Like a Pro, Not a Word Processor xxx"
+title: "LaTeX It Happen: Writing Like a Pro, Not a Word Processor"
 date: "2025-11-26"
 publishDate: "2025-09-01"
 links:
