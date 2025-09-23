@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: "CTRL, CODE, COMMIT: Digital Skills for the Modern PhD (CCC)"
+title: "Digital Skills for the Modern PhD"
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://lcharleux.github.io/SIE_formation_PANDA/'
 
 ############################
 ## LANGUAGE
